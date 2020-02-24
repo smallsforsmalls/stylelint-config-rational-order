@@ -7,7 +7,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/constverum/stylelint-config-rational-order.git"
+    "url": "git+https://github.com/smallsforsmalls/stylelint-config-rational-order.git"
   },
   "bugs": {
     "url": "https://github.com/constverum/stylelint-config-rational-order/issues"
